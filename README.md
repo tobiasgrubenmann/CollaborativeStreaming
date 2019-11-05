@@ -1,4 +1,4 @@
-# CollaborativeStreaming
+# Collaborative Streaming
 Source code to reproduce the results of the paper "Collaborative Streaming: Trust Requirements for Price Sharing" at the 4th Workshop on Real-time and Stream Analytics in Big Data & Stream Data Management.
 
 Usage:
